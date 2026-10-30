@@ -3,7 +3,7 @@
   "manifest_version": "1.0.0",
   "updated_at": "2026-10-29T12:00:00Z",
 
-  "app": {
+  "app": { 
     "config_url": "https://starlit-crisp-67ea10.netlify.app/app-config.json",
     "defaults_url": "https://starlit-crisp-67ea10.netlify.app/settings-defaults.json",
     "profiles_url": "https://starlit-crisp-67ea10.netlify.app/investigation-profiles.json",

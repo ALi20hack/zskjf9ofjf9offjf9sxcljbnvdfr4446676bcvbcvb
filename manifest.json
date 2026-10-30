@@ -4,14 +4,14 @@
   "updated_at": "2026-10-29T12:00:00Z",
 
   "app": { 
-    "config_url": "https://starlit-crisp-67ea10.netlify.app/app-config.json",
-    "defaults_url": "https://starlit-crisp-67ea10.netlify.app/settings-defaults.json",
-    "profiles_url": "https://starlit-crisp-67ea10.netlify.app/investigation-profiles.json",
-    "exams_url": "https://starlit-crisp-67ea10.netlify.app/exams.json",
-    "lessons_url": "https://starlit-crisp-67ea10.netlify.app/lessons.json",
-    "students_url": "https://starlit-crisp-67ea10.netlify.app/students.json",
-    "security_url": "https://starlit-crisp-67ea10.netlify.app/security.json",
-    "access_control_url": "https://starlit-crisp-67ea10.netlify.app/access-control.json"
+    "config_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/app-config.json",
+    "defaults_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/settings-defaults.json",
+    "profiles_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/investigation-profiles.json",
+    "exams_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/exams.json",
+    "lessons_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/lessons.json",
+    "students_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/students.json",
+    "security_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/security.json",
+    "access_control_url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/access-control.json"
   },
 
   "categories": [
@@ -23,7 +23,7 @@
       "color": "#3b82f6",
       "definition_ar": "تنبيهات متعلقة بتسجيل الدخول والمصادقة.",
       "definition_en": "Alerts related to login and authentication.",
-      "url": "https://starlit-crisp-67ea10.netlify.app/categories/authentication.json",
+      "url": "https://raw.githubusercontent.com/ALi20hack/zskjf9ofjf9offjf9sxcljbnvdfr4446676bcvbcvb/refs/heads/main/categories/authentication.json",
       "enabled": true
     }
   ],

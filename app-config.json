@@ -3,15 +3,15 @@
   "config_version": "1.0.0",
   "updated_at": "2026-10-28T12:00:00Z",
   "app": {
-    "name_ar": " 1 Rakwan Ali (SOC)",
+    "name_ar": "Rakwan Ali (SOC)",
     "name_en": "Rakwan Ali (SOC)",
-    "subtitle_ar": "مركز العمليات السيبرانية - راكوان علي",
+    "subtitle_ar": "مركز العمليات السيبرانية",
     "subtitle_en": "Rakwan | Security Alert Classification",
     "description_ar": "منصة متكاملة لتعزيز الأمن السيبراني، وحماية البنية الرقمية والأنظمة والبيانات من المخاطر والتهديدات الإلكترونية.",
     "description_en": "An integrated platform for classifying and monitoring common security alerts, helping SOC L1 analysts investigate and respond rapidly.",
     "instructor_ar": "إعداد: راكوان علي",
     "instructor_en": "Prepared by: Rakwan Ali",
-    "display_version": "v1.0.0.2"
+    "display_version": "v1.0.0"
   },
   "branding": {
     "logo_url": "",

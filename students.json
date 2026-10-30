@@ -32,6 +32,14 @@
       "allowed_courses": [
         "soc-basics"
       ]
+    },
+    {
+      "email": "s@S",
+      "name_ar": "asdasd",
+      "name_en": "asd",
+      "allowed_courses": [
+        "asd"
+      ]
     }
   ]
 }

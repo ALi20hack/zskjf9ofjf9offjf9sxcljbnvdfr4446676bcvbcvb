@@ -1,0 +1,14 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "title_ar": "الدرس الأول",
+      "title_en": "Practical: SOC Basics",
+      "description_ar": "درس تفاعلي يشرح المفاهيم الأساسية.",
+      "description_en": "Interactive lesson covering the basics.",
+      "url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/lessons/1/index.html",
+      "icon": "book-open",
+      "enabled": true
+    }
+  ]
+}

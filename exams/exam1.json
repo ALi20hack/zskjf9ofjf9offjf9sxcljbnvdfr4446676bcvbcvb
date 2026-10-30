@@ -1,0 +1,17 @@
+{
+  "duration_minutes": 10,
+  "questions": [
+    {
+      "id": "q1",
+      "question_ar": "الاختبار الاول ؟",
+      "question_en": "exam 1 ?",
+      "options": [
+        { "id": "a", "text_ar": "1", "text_en": "1" },
+        { "id": "b", "text_ar": "2", "text_en": "2" },
+        { "id": "c", "text_ar": "3", "text_en": "3" },
+        { "id": "d", "text_ar": "4", "text_en": "4" }
+      ],
+      "correct_option_id": ""
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "alerts": [
+    {
+      "id": "NET-001",
+      "name_ar": "اكتشاف حركة غير عادية في الشبكة",
+      "name_en": "Unusual Network Traffic Detected",
+      "description_ar": "حركة شبكة غير معتادة من جهاز داخلي إلى خادم خارجي.",
+      "description_en": "Unusual network traffic from internal host to external server.",
+      "severity": "High",
+      "status": "open",
+      "log_sources": ["10.10.5.23", "Firewall"],
+      "timestamp": "2026-10-28T11:58:00Z",
+      "mitre_attack": [
+        { "technique_id": "T1041", "name_ar": "تسريب بيانات عبر C2", "name_en": "Exfiltration Over C2" }
+      ],
+      "investigation_profile_id": "profile-network-01"
+    }
+  ]
+}

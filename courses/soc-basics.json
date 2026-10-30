@@ -1,0 +1,12 @@
+{
+  "videos": [
+    {
+      "title_ar": "الفيديو الأول",
+      "title_en": "First Video",
+      "description_ar": "شرح الفيديو الأول.",
+      "description_en": "First video explanation.",
+      "drive_id": "https://drive.google.com/file/d/1pHXkATFtFQu_ah9YcpFfZ6MRDds1hmD1/view?usp=sharing",
+      "duration": "10:00"
+    }
+  ]
+}

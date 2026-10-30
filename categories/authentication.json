@@ -1,0 +1,21 @@
+{
+  "alerts": [
+    {
+      "id": "AUTH-001",
+      "name_ar": "محاولة تسجيل دخول فاشلة",
+      "name_en": "Failed Login Attempt",
+      "description_ar": "محاولة تسجيل دخول فاشلة من مصدر خارجي.",
+      "description_en": "Failed login attempt from external source.",
+      "severity": "Critical",
+      "status": "open",
+      "log_sources": ["192.168.1.10", "AD-Server"],
+      "timestamp": "2026-10-28T11:58:00Z",
+      "mitre_attack": [
+        { "technique_id": "T1078", "name_ar": "حسابات صالحة", "name_en": "Valid Accounts" }
+      ],
+      "investigation_profile_id": "profile-auth-01",
+      "context_note_ar": "المصدر خارجي والحساب مخصص للإدارة.",
+      "context_note_en": "External source and account is admin-level."
+    }
+  ]
+}

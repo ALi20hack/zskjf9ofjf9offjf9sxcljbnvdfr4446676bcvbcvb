@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "force": {
+    "font": null,
+    "language": null,
+    "theme": null
+  },
+  "defaults": {
+    "font": "ibm-plex-arabic",
+    "language": "ar",
+    "theme": "dark",
+    "pageSize": 10,
+    "pollIntervalSeconds": 60
+  }
+}

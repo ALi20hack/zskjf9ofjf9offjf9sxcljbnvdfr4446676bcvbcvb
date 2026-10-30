@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "profiles": [
+    {
+      "id": "profile-auth-01",
+      "name_ar": "تحقيق في فشل تسجيل الدخول",
+      "name_en": "Failed Login Investigation",
+      "steps_ar": [
+        "راجع عدد محاولات الدخول الفاشلة في الساعة الأخيرة.",
+        "تحقق من IP المصدر - هل هو داخلي أم خارجي؟",
+        "راجع سجلات Active Directory للبحث عن نمط متكرر.",
+        "تحقق من حالة الحساب - هل هو مقفل؟",
+        "أبلغ الفريق الأمني إذا كانت المحاولات من مصدر خارجي مشبوه."
+      ],
+      "steps_en": [
+        "Review failed login attempts in the last hour.",
+        "Check source IP - internal or external?",
+        "Review Active Directory logs for recurring pattern.",
+        "Check account status - is it locked?",
+        "Notify security team if attempts are from suspicious external source."
+      ]
+    },
+    {
+      "id": "profile-network-01",
+      "name_ar": "تحقيق في نشاط شبكة مشبوه",
+      "name_en": "Suspicious Network Activity",
+      "steps_ar": [
+        "حدد الاتصالات الصادرة غير المعتادة.",
+        "تحقق من عناوين IP الوجهة - هل هي معروفة بالخبث؟",
+        "راجع كمية البيانات المنقولة.",
+        "افحص جدار الحماية للتأكد من الحظر.",
+        "عزل الجهاز المصدر إذا ثبت وجود C2."
+      ],
+      "steps_en": [
+        "Identify unusual outbound connections.",
+        "Check destination IPs - are they known malicious?",
+        "Review transferred data volume.",
+        "Verify firewall is blocking.",
+        "Isolate source host if C2 confirmed."
+      ]
+    }
+  ]
+}

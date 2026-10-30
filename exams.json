@@ -1,0 +1,16 @@
+{
+  
+  "exams": [
+    {
+      "id": "exam-1",
+      "title_ar": "عنوان الاختبار",
+      "title_en": "Fundamentals Exam",
+      "description_ar": "وصف السؤال",
+      "description_en": "Assessment exam",
+      "icon": "shield-check",
+      "color": "#3b82f6",
+      "url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/exams/exam1.json",
+      "enabled": true
+    }
+  ]
+}

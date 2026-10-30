@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-10-30T12:00:00Z",
+  "sections": {
+    "dashboard": { "visible": true },
+    "courses": { "visible": true },
+    "alerts": { "visible": true },
+    "exams": { "visible": true },
+    "lessons": { "visible": true },
+    "reports": { "visible": true },
+    "settings": { "visible": true },
+    "about": { "visible": true }
+  },
+  "hidden_courses": [],
+  "hidden_alerts_categories": []
+}

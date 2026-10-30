@@ -4,14 +4,14 @@
   "updated_at": "2026-10-29T12:00:00Z",
 
   "app": {
-    "config_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/app-config.json",
-    "defaults_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/settings-defaults.json",
-    "profiles_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/investigation-profiles.json",
-    "exams_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/exams.json",
-    "lessons_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/lessons.json",
-    "students_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/students.json",
-    "security_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/security.json",
-    "access_control_url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/access-control.json"
+    "config_url": "https://starlit-crisp-67ea10.netlify.app/app-config.json",
+    "defaults_url": "https://starlit-crisp-67ea10.netlify.app/settings-defaults.json",
+    "profiles_url": "https://starlit-crisp-67ea10.netlify.app/investigation-profiles.json",
+    "exams_url": "https://starlit-crisp-67ea10.netlify.app/exams.json",
+    "lessons_url": "https://starlit-crisp-67ea10.netlify.app/lessons.json",
+    "students_url": "https://starlit-crisp-67ea10.netlify.app/students.json",
+    "security_url": "https://starlit-crisp-67ea10.netlify.app/security.json",
+    "access_control_url": "https://starlit-crisp-67ea10.netlify.app/access-control.json"
   },
 
   "categories": [
@@ -23,7 +23,7 @@
       "color": "#3b82f6",
       "definition_ar": "تنبيهات متعلقة بتسجيل الدخول والمصادقة.",
       "definition_en": "Alerts related to login and authentication.",
-      "url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/categories/authentication.json",
+      "url": "https://starlit-crisp-67ea10.netlify.app/categories/authentication.json",
       "enabled": true
     }
   ],
@@ -36,7 +36,7 @@
       "description_ar": "دورة تمهيدية لمحللي SOC.",
       "description_en": "Introductory course for SOC analysts.",
       "thumbnail": "https://i.pinimg.com/1200x/5d/5d/22/5d5d226151f9cd1e8087bc84a1b03a90.jpg",
-      "url": "https://ssardkfgo5frg4g4gfdgcdxfg.netlify.app/courses/soc-basics.json",
+      "url": "https://starlit-crisp-67ea10.netlify.app/courses/soc-basics.json",
       "enabled": true
     }
   ]

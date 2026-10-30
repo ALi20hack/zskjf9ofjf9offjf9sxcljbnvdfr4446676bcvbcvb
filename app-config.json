@@ -11,7 +11,7 @@
     "description_en": "An integrated platform for classifying and monitoring common security alerts, helping SOC L1 analysts investigate and respond rapidly.",
     "instructor_ar": "إعداد: راكوان علي",
     "instructor_en": "Prepared by: Rakwan Ali",
-    "display_version": "v1.0.0"
+    "display_version": "v1.0.0.2"
   },
   "branding": {
     "logo_url": "",

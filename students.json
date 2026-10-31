@@ -12,33 +12,12 @@
       ]
     },
     {
-      "email": "student2@example.com",
-      "name_ar": "طالب 2",
-      "name_en": "Student 2",
+      "email": "student1@example.com",
+      "name_ar": "طالب 1",
+      "name_en": "Student 1",
       "allowed_courses": [
-        "soc-basics"
-      ]
-    },
-    {
-      "email": "student5@example.com",
-      "name_ar": "طالب 3",
-      "name_en": "Student 3",
-      "allowed_courses": []
-    },
-    {
-      "email": "r@r",
-      "name_ar": "aa",
-      "name_en": "dd",
-      "allowed_courses": [
-        "soc-basics"
-      ]
-    },
-    {
-      "email": "s@S",
-      "name_ar": "asdasd",
-      "name_en": "asd",
-      "allowed_courses": [
-        "asd"
+        "soc-basics",
+        "mitre-attack"
       ]
     }
   ]
